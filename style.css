@@ -38,17 +38,7 @@ body {
 }
 
 .main {
-    width: 700px;
-    height: auto;
-    margin: auto;
-    margin-top: 50px;
-    border: 5px solid #a5e0da;
-    border-radius: 5px;
-    background-color: white;
-}
-
-.main {
-    width: 700px;
+    width: 800px;
     height: auto;
     margin: auto;
     margin-top: 50px;
@@ -67,7 +57,7 @@ body {
 }
 
 .comicimg {
-    width: 600px;
+    width: 700px;
     margin: 15px;
     border: 1px solid black;
     border-radius: 5px;
@@ -107,7 +97,7 @@ body {
 }
 
 .footer {
-    width: 700px;
+    width: 800px;
     height: auto;
     margin: auto;
     margin-top: 25px;
