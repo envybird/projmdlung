@@ -101,6 +101,14 @@ body {
     opacity: 75%;
 }
 
+.smallbutton {
+    height: 40px;
+}
+
+.smallbutton:hover {
+    opacity: 75%;
+}
+
 .footer {
     width: 800px;
     height: auto;
