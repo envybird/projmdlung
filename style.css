@@ -101,11 +101,11 @@ body {
     opacity: 75%;
 }
 
-.smallbutton {
+.button {
     height: 40px;
 }
 
-.smallbutton:hover {
+.button:hover {
     opacity: 75%;
 }
 
