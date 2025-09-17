@@ -113,6 +113,8 @@ text-align: left;
 
 .button {
     height: 40px;
+    margin-left: -4px;
+    margin-right: -4px;
 }
 
 .button:hover {
