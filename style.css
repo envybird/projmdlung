@@ -80,6 +80,7 @@ body {
     padding: 0px 20px;
     background-color: #a5e0da;
     border-radius: 5px;
+    text-decoration: none;
 }
 
 .updatelog {
@@ -93,6 +94,9 @@ body {
 
 .updatelogcontent {
     margin: 25px;
+    max-height: 250px;
+    height: 250px;
+    overflow-y: scroll;
 }
 
 .rules {
