@@ -5,6 +5,10 @@
     text-size-adjust: none;
 }
 
+a:hover {
+    opacity: 50%;
+}
+
 b {
     font-size: 25px;
 }
@@ -109,6 +113,17 @@ text-align: left;
 
 .charicon:hover {
     opacity: 75%;
+}
+
+.eflag {
+    height: 37px;
+    margin-bottom: -15px;
+    margin-right: -9px;
+}
+
+.oflag {
+    height: 30px;
+    margin-bottom: -11px;
 }
 
 .button {
