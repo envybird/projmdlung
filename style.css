@@ -100,8 +100,7 @@ body {
 }
 
 .rules {
-    margin: 25px;
-    margin-top: -40px;
+    margin: -40px 25px;
     padding: 25px;
 }
 
